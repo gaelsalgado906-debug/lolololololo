@@ -1,1 +1,1 @@
- the script : loadstring(game:HttpGet("https://pastebin.com/raw/7HiKyiLN"))() 
+real script ___________by gael scripts
